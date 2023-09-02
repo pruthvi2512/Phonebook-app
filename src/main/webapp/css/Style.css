@@ -1,0 +1,23 @@
+.control{
+	width:400px;
+	height:40px;
+}
+/*ul{
+	list-style-type:none;
+	width:100%;
+	padding:10px;
+	background-color:black;
+}
+ul li{
+	display:inline;
+	padding:10px;
+}
+ul li a{
+	color:white;
+}*/
+.container{
+   
+  background-color:blue;
+}
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
